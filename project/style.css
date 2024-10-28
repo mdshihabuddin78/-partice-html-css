@@ -1,0 +1,25 @@
+body{
+	background:green;
+}
+
+.header-section{
+	background: #f4ff;
+	text-align: center;
+	min-height: 50px;
+}
+.header-section h2{
+	color:#fff;
+}
+.main_section{
+	background: #f4f4;
+}
+.main_section p{
+	color: black;
+}
+.footer_section{
+	background: #f4ff;
+}
+
+.footer_section p{
+	color: red;
+	text-align: center;
